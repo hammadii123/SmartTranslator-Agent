@@ -1,6 +1,6 @@
 ## 📝 **Project Description (For GitHub)**
 
-> A powerful AI-driven Translator Agent built with Streamlit and Gemini Pro (via OpenAI-compatible API), allowing seamless and accurate text translation between multiple global languages. Supports auto language detection and a modern UI for best user experience.
+ A powerful AI-driven Translator Agent built with Streamlit and Gemini Pro (via OpenAI-compatible API), allowing seamless and accurate text translation between multiple global languages. Supports auto language detection and a modern UI for best user experience.
 
 
 
@@ -72,7 +72,7 @@ streamlit run app.py
 * Italian
 * Portuguese
 
-> Source language can also be set to **Auto-detect**.
+Source language can also be set to **Auto-detect**.
 
 ---
 
@@ -92,7 +92,7 @@ SmartTranslator-Agent/
 
 ## 🤖 Agent Instructions
 
-> The agent is a professional translator trained to:
+ The agent is a professional translator trained to:
 
 * Translate only the text without extra explanation
 * Maintain tone, meaning, and context
