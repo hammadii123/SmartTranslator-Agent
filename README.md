@@ -2,10 +2,8 @@
 
 > A powerful AI-driven Translator Agent built with Streamlit and Gemini Pro (via OpenAI-compatible API), allowing seamless and accurate text translation between multiple global languages. Supports auto language detection and a modern UI for best user experience.
 
----
 
 
-````markdown
 # 🌍 SmartTranslator-Agent
 
 An AI-powered multilingual translator web app built with **Streamlit**, integrated with **Gemini Pro** (via OpenAI-compatible API). This agent helps you translate text accurately between various global languages while preserving the original context, tone, and meaning.
@@ -119,6 +117,4 @@ Built with 💚 by \Hammad Mustafa using Gemini Pro, Streamlit & Python.
 For suggestions, bugs, or feature requests:
 📧 [My Email](mailto:hammadworks123@example.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/hammad-mustafa2/)
-
-````
 
