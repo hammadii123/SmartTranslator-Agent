@@ -35,7 +35,7 @@ An AI-powered multilingual translator web app built with **Streamlit**, integrat
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/SmartTranslator-Agent.git
+git clone https://github.com/hammadii123/SmartTranslator-Agent.git
 cd SmartTranslator-Agent
 ````
 
